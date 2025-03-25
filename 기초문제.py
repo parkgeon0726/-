@@ -18,8 +18,16 @@
 #답 : print(" \\(__)|")
 
 #https://www.acmicpc.net/problem/10172 문제
-print("|\_/|")
-print("|q p|   /}")
-print("( 0 )\"\"\"\\")
-print("|\"^\"`    |")
-print("||_/=\\\\__|")
+#답 : print("|\_/|")
+#답 : print("|q p|   /}")
+#답 : print("( 0 )\"\"\"\\")
+#답 : print("|\"^\"`    |")
+#답 : print("||_/=\\\\__|")
+
+#https://www.acmicpc.net/problem/25083 문제
+#답 : print("         ,r'\"7")
+#답 : print("r`-_   ,'  ,/")
+#답 : print(" \\. \". L_r'")
+#답 : print("   `~\\/")
+#답 : print("      |")
+#답 : print("      |")
