@@ -1,4 +1,4 @@
-#4.17 클래스도전 관련10문제
+#5.7 클래스도전 관련10문제
 
 #https://www.acmicpc.net/problem/1074 문제
 def solve(n, r, c):
